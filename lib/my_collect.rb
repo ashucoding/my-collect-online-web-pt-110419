@@ -1,3 +1,3 @@
-array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
+list = ["Tim Jones", "Tom Smith", "Jim Campagno"]
 
 
